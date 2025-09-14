@@ -32,3 +32,9 @@ This project implements the **Soft Actor-Critic (SAC)** reinforcement learning a
 - **Off-policy learning** - Decouples data collection from policy optimization
 
 The agent successfully learns complex locomotion skills, progressing from random movements to coordinated running, demonstrating SAC's effectiveness for continuous control problems.
+
+the videos of explaining the codes
+https://drive.google.com/drive/folders/1jAhY3ymapHNzLj9JHrhRWFZ76LKOinmv?usp=sharing
+
+Student names: Raya JanatAbadi - Baran Hosseini
+Student numbers: 402105846 - 402170902
